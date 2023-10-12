@@ -1,5 +1,5 @@
 # DOT_MonteCarlo_Simulation
-A MonteCarlo simulation of Diffuse Optical Tomology: simulating the movement, absorption, and scattering of photos in homogenous or heterogenous medium.
+A MonteCarlo simulation of Diffuse Optical Tomography: simulating the movement, absorption, and scattering of photos in homogenous or heterogenous medium.
 Each photon is individually simulated, until it is outside of the set boundary, or a given length of time has expired. This was implemented in Java
 
 -Main: which instantiates the major classes, runs the simulation, and collects data
